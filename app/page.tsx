@@ -14,7 +14,7 @@ export default function Home() {
           <button className="bg-[#0171E3] px-4 py-2 text-lg rounded-3xl">
               Buy
           </button>
-          <p className="text-2xl">From $644.99 or $54.25/mo. for 12 mo.*</p>
+          <p className="text-xl lg:text-2xl px-3 text-center">From $644.99 or $54.25/mo. for 12 mo.*</p>
         </div>
         <Games />
         <Stats />

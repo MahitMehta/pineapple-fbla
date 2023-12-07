@@ -122,13 +122,13 @@ const Games = () => {
         <Animate.Element 
             as="h2" 
             onDeactivatedClasses="translate-y-[100px] opacity-0" 
-            className="mt-[200px] font-bold text-7xl text-center transition-all duration-500">
-                Finally Harness Apple Silicon&apos;s<br/><Gradient>True Graphical Power.</Gradient>
+            className="mt-[200px] font-bold text-6xl px-3 lg:text-7xl text-center transition-all duration-500">
+                Finally Harness Apple Silicon&apos;s<br/><Gradient>Full Graphical Power.</Gradient>
         </Animate.Element>
         <Animate.Element 
             as="p" 
             onDeactivatedClasses="translate-y-[100px] opacity-0" 
-            className="mt-3 delay-75 font-medium text-center transition-all duration-500 max-w-4xl text-3xl text-[#86868b]">
+            className="mt-3 delay-75 font-medium px-3 text-center transition-all duration-500 max-w-4xl text-3xl text-[#86868b]">
             PineApple Book 11 combines Windows 11’s endless array of AAA games with PineApple’s <span className="text-white">all-new GPU architecture</span> to provide <span className="text-white"> stunning graphics</span>. 
         </Animate.Element>
         <Animate.Element 
@@ -217,7 +217,7 @@ const Games = () => {
             </div>
             <p 
                 ref={descriptionRef}
-                className="text-center font-medium max-w-4xl text-3xl mt-10 text-[#86868b]">
+                className="text-center px-6 font-medium max-w-4xl text-2xl lg:text-3xl mt-10 text-[#86868b]">
                 The PineApple Book 11 blasts forward with the M3 Pro chip. Built on 3‑nanometer technology and featuring an all-new GPU architecture, the M3 Pro is the <span className="text-white">most advanced chip ever built</span> for a personal computer. PineApple’s <span className="text-white">new battery-efficient CPU</span> provides uninterpreted, <span className="text-white"> long hours of gaming</span>. 
             </p>
         </section>

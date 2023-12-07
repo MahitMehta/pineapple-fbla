@@ -14,8 +14,8 @@ const Header = () => {
             <Animate.Element 
                 as="h2" 
                 onDeactivatedClasses="translate-y-[100px] opacity-0" 
-                className="font-bold text-7xl mt-3 transition-all duration-500">
-                    Efficieny Meets Gaming.
+                className="font-bold text-7xl text-center mt-3 transition-all duration-500">
+                    Efficiency Meets Gaming.
             </Animate.Element>
         </header>
     )
