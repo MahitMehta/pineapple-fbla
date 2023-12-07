@@ -20,7 +20,7 @@ const Navbar = () => {
                             alt="PineApple Logo"
                         />
                         <div>
-                            <h2 className="text-[#989898]">13&quot; model with M3 Pro chip</h2>
+                            <h2 className="text-[#989898] whitespace-nowrap">13&quot; model with M3 Pro chip</h2>
                             <h1 className="text-xl font-bold">PineApple</h1>
                         </div>
                    </div>

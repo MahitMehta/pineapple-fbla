@@ -5,7 +5,7 @@ import React from "react";
 
 const Stats = () => {
     return (
-        <section className="w-full p-10 max-w-screen-xl">
+        <section className="md:mt-0 mt-[100px] w-full p-10 max-w-screen-xl">
             <div className="flex w-full lg:space-x-5 min-h-[500px] lg:flex-row flex-col lg:space-y-0 space-y-5 ">
                 <Animate.Element
                     onDeactivatedClasses="translate-y-[100px] opacity-0"
