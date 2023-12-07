@@ -41,11 +41,14 @@ const Navbar = () => {
                         Compare
                     </Link>
                 </li>
-                <Link href="/">
+                <a 
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    href="https://www.buymeacoffee.com/mahit">
                     <button className="bg-[#0171E3] px-3 py-1 rounded-2xl">
                         Buy
                     </button>
-                </Link>
+                </a>
             </ul>
         </nav>
     )
