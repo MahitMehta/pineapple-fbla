@@ -39,7 +39,7 @@ const PineApple = () => {
                     objectFit: "contain",
                     objectPosition: "top"
                 }}
-                src="/mac-bezel.png"
+                src="/pineapple-book-11.png"
                 alt="pinebook"
             />
             <video
