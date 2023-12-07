@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description: 'PineApple Book 11 Landing Page for FBLA. This website was made for a FBLA try-outs presentation and is not real.',
   openGraph: {
     title: "PineApple Book 11",
-    images:["/og.png"]
+    images:["https://pineapple.mahitm.com/og.png"]
   }
 }
 
