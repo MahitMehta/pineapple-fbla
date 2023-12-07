@@ -46,7 +46,7 @@ const PineApple = () => {
                 className="absolute w-[80%] max-w-[1200px] max-h-[900px] top-[2.5%] left-1/2 -translate-x-1/2 -z-10"
                 autoPlay
                 muted
-                playsinline
+                playsInline
                 ref={videoRef}
                 src="/windows-animation.mp4" 
             />
