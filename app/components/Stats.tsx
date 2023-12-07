@@ -15,7 +15,7 @@ const Stats = () => {
                     className="flex-[3] relative rounded-2xl p-10 min-h-[500px] h-[50vh] flex justify-center items-center transition-all duration-500"
                 >
                     <h2 className="left-5 top-5 absolute font-semibold">All-day battery Life</h2>
-                    <h1 className="md:w-2/3 font-bold text-6xl">Up to 18 hours of battery life. Game on the go.</h1>
+                    <h1 className="md:w-2/3 font-bold text-5xl md:text-6xl">Up to 18 hours of battery life. Game on the go.</h1>
                 </Animate.Element>
                 <Animate.Element 
                     onDeactivatedClasses="translate-y-[150px] opacity-0"
@@ -24,7 +24,7 @@ const Stats = () => {
                     }}
                     className="flex-[2] relative flex-col min-h-[500px] h-[50vh] rounded-2xl flex justify-center items-center transition-all duration-700 delay-75">
                         <h2 className="left-5 top-5 absolute font-semibold">Thermal Efficiency</h2>
-                        <div className="font-bold text-6xl flex flex-col space-y-3">
+                        <div className="font-bold text-5xl md:text-6xl flex flex-col space-y-3">
                             <h1 className="opacity-75">No fans.</h1>
                             <h1 className="opacity-75">No noise.</h1>
                             <h1>Just Wins.</h1>
